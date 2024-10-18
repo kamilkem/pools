@@ -1,0 +1,15 @@
+{
+  "name": "kamil/pools",
+  "autoload": {
+    "psr-4": {
+      "Kamil\\Pools\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Kamil Kozaczyński",
+      "email": "kozaczynski.kamil@gmail.com"
+    }
+  ],
+  "require": {}
+}
